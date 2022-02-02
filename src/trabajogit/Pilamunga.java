@@ -9,6 +9,6 @@ package trabajogit;
  *
  * @author winas
  */
-public class Pilamunga_A {
+public class Pilamunga {
     
 }
