@@ -6,7 +6,16 @@
         <group/>
 =======
         <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/i5ra/Documents/PracticaGit/TrabajoGit/src/trabajogit/Principal.java</file>
+=======
+<<<<<<< HEAD
+            <file>file:/C:/Users/danie/Desktop/4to%20semestre/Computacion%20Visual/TrabajoGit/src/trabajogit/TrabajoGit.java</file>
+            <file>file:/C:/Users/danie/Desktop/4to%20semestre/Computacion%20Visual/TrabajoGit/src/trabajogit/Principal.java</file>
+=======
             <file>file:/C:/PracticaGit/TrabajoGit/src/trabajogit/Principal.java</file>
+>>>>>>> e8558949a8efc360bb159edd21716463889d599c
+>>>>>>> bc717fa3485093abb0ae1232f6e366f7aa3974d6
         </group>
 >>>>>>> a6dffe8c66bf2618632872489ba20982d4ac54ca
     </open-files>
