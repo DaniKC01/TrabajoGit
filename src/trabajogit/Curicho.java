@@ -10,5 +10,6 @@ package trabajogit;
  * @author Pc
  */
 public class Curicho {
-    
+    String hola;
+    //Prueba Sanchez Anderson
 }
